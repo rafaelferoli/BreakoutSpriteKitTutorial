@@ -10,6 +10,8 @@
 	<string>BreakoutSpriteKitTutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>5CD88DB55B3B64DE34C23C85937537D8EED18C21</key>
+		<string>https://github.com/rafaelferoli/BreakoutSpriteKitTutorial.git</string>
 		<key>6CF73A45BBF5F7E88FB5C9F8208C18EEC5733776</key>
 		<string>https://github.com/rafaelferoli/BreakoutSpriteKitTutorial.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>BreakoutSpriteKitTutorial.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6CF73A45BBF5F7E88FB5C9F8208C18EEC5733776</key>
+		<key>5CD88DB55B3B64DE34C23C85937537D8EED18C21</key>
 		<string>../..</string>
+		<key>6CF73A45BBF5F7E88FB5C9F8208C18EEC5733776</key>
+		<string>../../../BreakoutSpriteKit</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/rafaelferoli/BreakoutSpriteKitTutorial.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6CF73A45BBF5F7E88FB5C9F8208C18EEC5733776</string>
+	<string>5CD88DB55B3B64DE34C23C85937537D8EED18C21</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>6CF73A45BBF5F7E88FB5C9F8208C18EEC5733776</string>
 			<key>IDESourceControlWCCName</key>
 			<string>BreakoutSpriteKit</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5CD88DB55B3B64DE34C23C85937537D8EED18C21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BreakoutSpriteKitTutorial</string>
 		</dict>
 	</array>
 </dict>
